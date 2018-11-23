@@ -1,0 +1,10 @@
+D:\MyVsExercise\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\MyVsExercise\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\MyVsExercise\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\MyVsExercise\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\MyVsExercise\Calculator\Calculator\obj\Debug\Calculator.myCalculator.resources
+D:\MyVsExercise\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\MyVsExercise\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\MyVsExercise\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\MyVsExercise\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\MyVsExercise\Calculator\Calculator\bin\Debug\myExpression.dll
